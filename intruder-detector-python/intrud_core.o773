@@ -1,0 +1,20 @@
+
+########################################################################
+#      Date:           Fri Nov  8 09:05:53 PST 2019
+#    Job ID:           773.v-qsvr-1.devcloud-edge
+#      User:           u33139
+# Resources:           neednodes=1:tank-870:i5-6500te,nodes=1:tank-870:i5-6500te,walltime=01:00:00
+########################################################################
+
+[setupvars.sh] OpenVINO environment initialized
+09:06:04 - Intruder person detected on Cam 1
+09:06:11 - Intruder car detected on Cam 1
+09:06:26 - Intruder person detected on Cam 1
+09:06:28 - Intruder car detected on Cam 1
+Success!
+
+########################################################################
+# End of output for job 773.v-qsvr-1.devcloud-edge
+# Date: Fri Nov  8 09:06:34 PST 2019
+########################################################################
+

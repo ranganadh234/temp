@@ -1,0 +1,20 @@
+
+########################################################################
+#      Date:           Fri Nov  8 09:07:19 PST 2019
+#    Job ID:           774.v-qsvr-1.devcloud-edge
+#      User:           u33139
+# Resources:           neednodes=1:skylake,nodes=1:skylake,walltime=01:00:00
+########################################################################
+
+[setupvars.sh] OpenVINO environment initialized
+09:07:30 - Intruder person detected on Cam 1
+09:07:37 - Intruder car detected on Cam 1
+09:07:51 - Intruder person detected on Cam 1
+09:07:53 - Intruder car detected on Cam 1
+Success!
+
+########################################################################
+# End of output for job 774.v-qsvr-1.devcloud-edge
+# Date: Fri Nov  8 09:07:59 PST 2019
+########################################################################
+

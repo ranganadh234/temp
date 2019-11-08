@@ -1,0 +1,16 @@
+
+########################################################################
+#      Date:           Fri Nov  8 09:10:42 PST 2019
+#    Job ID:           777.v-qsvr-1.devcloud-edge
+#      User:           u33139
+# Resources:           neednodes=1:kaby-lake,nodes=1:kaby-lake,walltime=01:00:00
+########################################################################
+
+[setupvars.sh] OpenVINO environment initialized
+To stop the execution press Esc button
+
+########################################################################
+# End of output for job 777.v-qsvr-1.devcloud-edge
+# Date: Fri Nov  8 09:12:01 PST 2019
+########################################################################
+

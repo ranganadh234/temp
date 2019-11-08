@@ -1,0 +1,16 @@
+
+########################################################################
+#      Date:           Fri Nov  8 09:16:52 PST 2019
+#    Job ID:           782.v-qsvr-1.devcloud-edge
+#      User:           u33139
+# Resources:           neednodes=1:skylake,nodes=1:skylake,walltime=01:00:00
+########################################################################
+
+[setupvars.sh] OpenVINO environment initialized
+To stop the execution press Esc button
+
+########################################################################
+# End of output for job 782.v-qsvr-1.devcloud-edge
+# Date: Fri Nov  8 09:18:14 PST 2019
+########################################################################
+
